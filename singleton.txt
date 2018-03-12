@@ -1,0 +1,38 @@
+﻿using System;
+
+public class Singleton
+{
+	private static Singleton instance;
+	private List<string> lista;
+	private int licznik =-1;	
+
+	private Singleton() {
+		lista = new List<string>();
+	}
+
+	public static Singleton instancja() 
+	{
+		if (instance == null)
+		{
+			instance = new Singleton();
+		}
+		
+		return instance;
+	}
+	
+	public void dodaj(string podana) 
+	{	
+		lista.Add(podana);
+		licznik++;
+	}
+	
+	public void odejmij()
+	{
+		lista.RemoveAt(licznik);
+		licznik--;
+	}
+	
+	public int policz()	
+	{
+		return licznik+1; 
+	}
