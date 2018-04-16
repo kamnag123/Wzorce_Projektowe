@@ -1,0 +1,18 @@
+CREATE TABLE `priviledges` (
+  `Id_priviledge` int(11) NOT NULL AUTO_INCREMENT,
+  `name_priviledge` varchar(45) NOT NULL,
+  PRIMARY KEY (`Id_priviledge`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1
+
+CREATE TABLE `products` (
+  `Id_products` int(11) NOT NULL AUTO_INCREMENT,
+  `nameproduct` varchar(45) NOT NULL,
+  PRIMARY KEY (`Id_products`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
+
+CREATE TABLE `users` (
+  `Id_user` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(45) CHARACTER SET utf8 DEFAULT NULL,
+  PRIMARY KEY (`Id_user`),
+  UNIQUE KEY `Id_user_UNIQUE` (`Id_user`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=latin1

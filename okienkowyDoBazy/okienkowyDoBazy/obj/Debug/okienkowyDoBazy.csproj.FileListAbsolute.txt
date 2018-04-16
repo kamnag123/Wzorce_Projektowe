@@ -1,0 +1,13 @@
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\bin\Debug\okienkowyDoBazy.exe.config
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\bin\Debug\okienkowyDoBazy.exe
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\bin\Debug\okienkowyDoBazy.pdb
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\bin\Debug\MySql.Data.dll
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\bin\Debug\MySql.Data.xml
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\obj\Debug\okienkowyDoBazy.Form1.resources
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\obj\Debug\okienkowyDoBazy.Properties.Resources.resources
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\obj\Debug\okienkowyDoBazy.csproj.GenerateResource.cache
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\obj\Debug\okienkowyDoBazy.csproj.CoreCompileInputs.cache
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\obj\Debug\okienkowyDoBazy.csproj.CopyComplete
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\obj\Debug\okienkowyDoBazy.exe
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\obj\Debug\okienkowyDoBazy.pdb
+E:\programowanie\projekty\okienkowyDoBazy\okienkowyDoBazy\obj\Debug\okienkowyDoBazy.wpisywanieOkienko.resources
